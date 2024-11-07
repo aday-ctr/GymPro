@@ -6,11 +6,11 @@
 
 # Actores
 
-    Administrador: Es el encargado de crear y gestionar las rutinas de entrenamiento.
+### Administrador: Es el encargado de crear y gestionar las rutinas de entrenamiento.
 
-    Entrenador: Es el encargado de seleccionar las rutinas de entrenamiento para los clientes.
+### Entrenador: Es el encargado de seleccionar las rutinas de entrenamiento para los clientes.
 
-    Cliente: Selecciona las rutinas de entrenamiento para realizarlas.
+### Cliente: Selecciona las rutinas de entrenamiento para realizarlas.
 
 # Operaciones por Actor
 ## Administrador
