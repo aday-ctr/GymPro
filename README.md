@@ -2,15 +2,15 @@
 
 ## Descripción del proyecto
 
-<p>EL proyecto consiste en una aplicación enfocada para el gimnasio en la cual podrás crear tus propias rutinas o seguir la que vienen predifinidad.</p>
+<p> EL proyecto consiste en una aplicación enfocada para el gimnasio en la cual podrás crear tus propias rutinas o seguir la que vienen predifinidad. </p>
 
 # Actores
 
-### Administrador: Es el encargado de crear y gestionar las rutinas de entrenamiento.
+<p> Administrador: Es el encargado de crear y gestionar las rutinas de entrenamiento. </p>
 
-### Entrenador: Es el encargado de seleccionar las rutinas de entrenamiento para los clientes.
+<p>  Entrenador: Es el encargado de seleccionar las rutinas de entrenamiento para los clientes. </p>
 
-### Cliente: Selecciona las rutinas de entrenamiento para realizarlas.
+<p> Cliente: Selecciona las rutinas de entrenamiento para realizarlas.<p>
 
 # Operaciones por Actor
 ## Administrador
